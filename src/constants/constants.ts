@@ -1,0 +1,1 @@
+export const SWAPI_API: string = "https://swapi.dev/api";
